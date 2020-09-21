@@ -1,0 +1,15 @@
+@import '../../../styles/settings.scss';
+
+// .root {
+// }
+
+.priceSettings {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  p {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+}
